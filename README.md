@@ -13,13 +13,6 @@
 - Instagram: https://www.instagram.com/chirag.rathi/?hl=en
 - Medium: https://chiragrathi24.medium.com/ 
 
-### My Github Repo Stats 📈
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=chiragrathi24&show_icons=true&title_color=73ffbb&icon_color=73ffbb&text_color=73ffbb&bg_color=151515&count_private=true&hide_title=true" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragrathi24&show_icons=true&title_color=73ffbb&icon_color=73ffbb&text_color=fff&bg_color=151515&count_private=true&layout=compact" />
-
-
 <!--
 **chiragrathi24/chiragrathi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
