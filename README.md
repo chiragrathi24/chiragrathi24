@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I like playing with Data...
 - 💻 Languages and Tools: C++, Python, MySQL, HTML, CSS, JS, Tableau, Git, Jupyter Notebook
 ### Reach me🤙:
+- Portfolio: http://www.chiragrathi.com/
 - Linkedin: https://www.linkedin.com/in/chiragrathi12/
 - Twitter: https://twitter.com/ChiragRathi8
 - Facebook: https://www.facebook.com/chirag.rathi.108
